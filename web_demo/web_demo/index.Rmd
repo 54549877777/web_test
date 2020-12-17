@@ -1,9 +1,10 @@
 ---
-title: "My Website"
+title: "Loulou's Website"
 output:
   html_document:
     df_print: paged
 ---
 
-Welcome to my website!  
-I am a student at SUSTech, my research is about xxx.
+Welcome to Louxuan's website!  
+
+I am SUSTecher!
