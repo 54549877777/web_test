@@ -1,17 +1,17 @@
 ---
-title: "Introduction:"
+title: "Introduction"
 output:
   html_document:
     df_print: paged
 ---
 
 
-**Loulou's Information**  
-
+**Personal Information:**  
+  
 My Photo :
 <img src="figs/PRO.jpg" alt="drawing" width="200"/>
  
-Age:23  
+Age: 23  
   
 Nickname: loulou  
   
