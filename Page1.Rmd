@@ -6,7 +6,7 @@ output:
 ---
 
 
-**Loulou's Website**  
+**Loulou's Information**  
 
 My Photo :
 <img src="figs/PRO.jpg" alt="drawing" width="200"/>
@@ -15,7 +15,7 @@ Age:23
   
 Nickname: loulou  
   
-University: SUSUTech
+University: SUSTech
   
 Constellation: Scorpio
   
