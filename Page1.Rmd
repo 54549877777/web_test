@@ -8,19 +8,37 @@ output:
 
 **Loulou's Website**  
 
-My Profile Photo :
-<img src="figs/PRO.jpg" alt="drawing" width="400"/>
+My Photo :
+<img src="figs/PRO.jpg" alt="drawing" width="200"/>
+ 
+Age:23  
+  
+Nickname: loulou  
+  
+University: SUSUTech
+  
+Constellation: Scorpio
+  
+Love Status: Single (Suggest 20-25 year old girl call me, my phone number is:135XXXX0001,XD)
+  
 
-
+***
+  
 Course link:
 
 [ESE5023](https://zhu-group.github.io/ese5023/index.html)
-
-
-
-Show section break line:
+  
 
 ***
+  
+Rstudio:  
+
+<img src="figs/Rstudio.jpg" alt="drawing" width="400"/>   
+  
+R:  
+  
+<img src="figs/R.png" alt="drawing" width="400"/>
+
 
 List:
 
@@ -28,9 +46,6 @@ List:
   - 1.1
   - 1.2
 + 2
-
-Insert a figure:  
-<img src="figs/R.png" alt="drawing" width="400"/>
 
 Insert a table:  
 
